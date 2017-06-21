@@ -1,3 +1,3 @@
 # spring-demo-annotations
 
-## Spring basic exaample with Annotations.
+## Spring basic example with Annotations.
