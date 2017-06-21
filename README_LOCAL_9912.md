@@ -12,7 +12,3 @@ Steps in AnnotationDemoApp.Java
 
 ##4. Close the context
 
-=======
-# spring-demo-annotations
-
-## Spring basic example with Annotations.

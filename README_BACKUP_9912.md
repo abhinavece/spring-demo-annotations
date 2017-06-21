@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Spring-demo-annotations
 
 ## Spring basic example with Annotations.
@@ -16,3 +17,4 @@ Steps in AnnotationDemoApp.Java
 # spring-demo-annotations
 
 ## Spring basic example with Annotations.
+>>>>>>> 4ba236bac17caa5baaf54fd44cfa599e9a9e46e3
