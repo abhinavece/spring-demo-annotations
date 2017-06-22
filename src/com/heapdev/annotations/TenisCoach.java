@@ -10,6 +10,7 @@ public class TenisCoach implements Coach{
 	@Autowired
 	public TenisCoach(FortuneService fortuneService) {
 		this.fortuneService = fortuneService;
+		System.out.println("TENISCOACH ===> INSIDE TENIS COACH");
 	}
 	
 	@Override
