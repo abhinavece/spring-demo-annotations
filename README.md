@@ -10,4 +10,8 @@ Steps in AnnotationDemoApp.Java
 
 ##3. Call methods on that bean
 
+<<<<<<< HEAD
 ##4. Close the context
+=======
+##4. Close the context
+>>>>>>> 27edf63d5ef2003599ce3262c4b5d00d2f3df0ba
