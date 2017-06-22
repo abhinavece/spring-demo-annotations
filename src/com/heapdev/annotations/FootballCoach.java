@@ -9,5 +9,10 @@ public class FootballCoach implements Coach {
 	public String getDailyWorkout() {
 		return "Football:: Play like champ, run like Cheetah";
 	}
+	
+	@Override
+	public String getDailyFortune() {
+		return "All the best for your match";
+	}
 
 }

@@ -9,5 +9,10 @@ public class VolleyballCoach implements Coach {
 	public String getDailyWorkout() {
 		return "VolleyballCoach:: start playing anytime... anywhere !!";
 	}
+	
+	@Override
+	public String getDailyFortune() {
+		return "All the best for your match";
+	}
 
 }
